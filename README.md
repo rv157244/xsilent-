@@ -1,4 +1,4 @@
-# xsilent風
+# Xsilent風
 A xsilent風 é um projeto experimental e educacional baseado em Alpine Linux, voltado para o estudo de hardening manual, controle explícito de tráfego, OPSEC básica e construção de sistemas minimalistas com persistência.
 
 O objetivo do projeto não é garantir anonimato, mas explorar decisões técnicas, seus custos e limitações, ao montar um ambiente enxuto com foco em privacidade operacional e isolamento de serviços.
