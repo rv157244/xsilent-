@@ -87,7 +87,7 @@ Ela foi dividida em aproximadamente 10 etapas, cobrindo:
 - Hardening básico
 - Ambiente gráfico
 
->> Veja a seção de instalação completa abaixo e leia antes de executar.
+>> Veja a seção de instalação completa e leia antes de executar.
 ## Créditos
 
 - Configuração visual (GUI) baseada no trabalho de:
